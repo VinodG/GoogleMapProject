@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MapTest</string>
+    <string name="add">ADD</string>
+    <string name="select_location">Select Location</string>
+
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyCentINWSon3dc5V4iclFGGQffWtsl1SSU</string>
+</resources>
